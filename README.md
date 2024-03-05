@@ -1,19 +1,20 @@
-PyTube Repository
+
+# PyTube Repository
 Welcome to the PyTube repository! This repository contains code demonstrating how to utilize the PyTube library for downloading and working with YouTube videos. PyTube is a powerful library that simplifies the process of interacting with YouTube videos programmatically.
 
-Table of Contents
+## Table of Contents
 Introduction
 Installation
 Usage
 Features
 Contributing
 License
-Introduction
+## Introduction
 PyTube is a Python library that allows developers to interact with YouTube videos in a convenient and efficient manner. Whether you need to download videos, extract audio tracks, or retrieve metadata, PyTube provides a comprehensive set of features to accomplish these tasks with ease.
 
 This repository serves as a guide for using PyTube effectively in your Python projects. By following the examples and instructions provided, you'll be able to integrate PyTube seamlessly into your applications.
 
-Installation
+## Installation
 To install PyTube, you can use pip, Python's package manager. Simply run the following command:
 
 bash
@@ -21,7 +22,7 @@ Copy code
 pip install pytube
 PyTube requires Python 3.6 or later to function properly.
 
-Usage
+## Usage
 Using PyTube is straightforward and intuitive. Below is a basic example demonstrating how to download a YouTube video using PyTube:
 
 python
